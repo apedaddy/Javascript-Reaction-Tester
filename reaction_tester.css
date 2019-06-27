@@ -1,0 +1,35 @@
+#shape{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.bold{
+    font-weight: bold;    
+}
+
+#timeTaken{
+    color: rgb(255, 5, 5);
+}
+
+#slowest{
+    color: rgb(128, 1, 133);
+    font-weight: bold
+}
+
+#fastest{
+    color: rgb(255, 102, 0);
+    font-weight: bolder;
+}
+
+#fastest-display{
+    color: rgb(63, 2, 40);
+    font-weight: bolder;
+    font-size: large;
+}
